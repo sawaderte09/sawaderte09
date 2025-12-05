@@ -1601,4 +1601,3 @@ showTab(rageFrame)
 b1.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
 
 print("neverlose.cc menu loaded successfully!")
-print("Target Lock function added - press Target Lock checkbox to select player and automatically follow them!")
